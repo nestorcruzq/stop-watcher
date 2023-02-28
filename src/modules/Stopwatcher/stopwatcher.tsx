@@ -25,7 +25,7 @@ const StopWatcher = () => {
         clearInterval(intervalRef.current);
       };
     }
-  }, [timeElapsed, isRunning]);
+  }, [timeElapsed, isRunning, timeOver]);
 
   const handleStart = () => {
     if (!isRunning) setIsRunning(true);
