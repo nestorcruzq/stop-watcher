@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Digital-7';
+    src: url(../../fonts/digital-7.ttf) format('truetype');
+  }
+
+  .digital {
+    display: inline-block;
+    position: relative;
+    font-family: 'Digital-7';
+    font-size: 80px;
+  }
