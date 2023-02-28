@@ -1,3 +1,6 @@
+# Demo
+<a href="https://stopwatcher-nestor.netlify.app/" target="_blank">Go to the Stopwatch app</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
